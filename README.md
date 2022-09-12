@@ -1,1 +1,4 @@
 # ANONYMOUS
+git clone https://github.com/ANONYMOUS-XD-PAK/ANONYMOUS
+cd ANONYMOUS
+python ANONYMOUSBACK.py
